@@ -1,0 +1,92 @@
+html{
+	text-align: center;
+}
+
+body {
+	background: black;
+	margin: 8px;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+}
+
+article{
+	margin-left: 20%;
+	border: 1em ridge red;
+	padding: 20px;
+	width: 55%;
+	margin: 0 auto;
+}
+
+nav {
+	float:left;
+	width: 19%;
+	background-color: red;
+	border: 1em ridge white;
+}
+
+h1{
+	font-family: 'Playfair Display', serif;
+	font-size: 3em;
+	color: red;
+	font-style: italic;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	font-size: 2em;
+	color: #DC143C;
+	font-style: italic;
+}
+
+h3{
+	font-family: 'Playfair Display', serif;
+	font-size: 2em;
+	color: red;
+}
+
+h4 {
+	font-family: 'Playfair Display', serif;
+	font-size: 2em;
+	color: black;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	color: white;
+}
+
+blockquote{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.05em;
+	font-style: italic;
+	color: white;
+}
+
+.signatur{
+	font-family: 'Charmonman', cursive; 
+	font-size: 1.1em;
+	color: white;
+	text-transform: capitalize;
+}
+
+.img{
+	width: 50%;
+	height: 40%;
+	margin: 0 auto;
+}
+
+#kapitel1{
+	color: black;
+}
+
+#kapitel2{
+	color: black;
+}
+
+#kapitel3{
+	color: black;
+}
